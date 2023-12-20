@@ -4,8 +4,8 @@ import requests
 import json
 import threading
 
-bot = telebot.TeleBot('6437774582:AAEuxPT2j7Jt9llXKybvxC3lTmTXYuK3SvI')
-API = 'cb7c19e567c351967e0c8a47f3fa111b'
+bot = telebot.TeleBot('bot_token')
+API = 'your_API'
 
 monitoring_settings = {}
 
