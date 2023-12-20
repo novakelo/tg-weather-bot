@@ -5,8 +5,8 @@ import datetime
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('6437774582:AAEuxPT2j7Jt9llXKybvxC3lTmTXYuK3SvI')
-API = 'cb7c19e567c351967e0c8a47f3fa111b'
+bot = telebot.TeleBot('bot_token')
+API = 'your_API'
 
 @bot.message_handler(content_types=['text'])
 def weather_report(message):
