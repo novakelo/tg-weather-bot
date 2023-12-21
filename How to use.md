@@ -9,4 +9,4 @@
 ## Функция мониторинга
 ![Мониторинг](https://github.com/novakelo/tg-weather-bot/tree/main/pics/Monitoring.jpg)
 ## Дополнительно
-![Назад](https://github.com/novakelo/tg-weather-bot/tree/main/pics/Back.jpg)
+![Назад](https://github.com/novakelo/tg-weather-bot/tree/main/pics/Back.png)
